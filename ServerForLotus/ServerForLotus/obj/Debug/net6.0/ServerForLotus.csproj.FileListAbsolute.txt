@@ -1,0 +1,14 @@
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\bin\Debug\net6.0\ServerForLotus.exe
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\bin\Debug\net6.0\ServerForLotus.deps.json
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\bin\Debug\net6.0\ServerForLotus.runtimeconfig.json
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\bin\Debug\net6.0\ServerForLotus.dll
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\bin\Debug\net6.0\ServerForLotus.pdb
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\ServerForLotus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\ServerForLotus.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\ServerForLotus.AssemblyInfo.cs
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\ServerForLotus.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\ServerForLotus.dll
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\refint\ServerForLotus.dll
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\ServerForLotus.pdb
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\ServerForLotus.genruntimeconfig.cache
+C:\Users\rusla\source\repos\ServerForLotus\ServerForLotus\obj\Debug\net6.0\ref\ServerForLotus.dll
